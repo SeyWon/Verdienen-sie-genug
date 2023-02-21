@@ -1,0 +1,11 @@
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\bin\Debug\Verdienen sie genug.exe.config
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\bin\Debug\Verdienen sie genug.exe
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\bin\Debug\Verdienen sie genug.pdb
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.csproj.AssemblyReference.cache
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen_sie_genug.Form1.resources
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen_sie_genug.Properties.Resources.resources
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.csproj.GenerateResource.cache
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.csproj.CoreCompileInputs.cache
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.exe
+C:\Users\f.moster\Desktop\Coden\Verdienen sie genug\Verdienen sie genug\obj\Debug\Verdienen sie genug.pdb
